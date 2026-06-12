@@ -10,7 +10,7 @@ monitoring, road maintenance, and autonomous vehicle safety.
 - ✅ Evaluated with normalized confusion matrix and test results
 
 ## Demo
-▶️ [Watch Output Video](https://youtu.be/pY5zFuyhzY4) ← paste your YouTube link here
+▶️ [Watch Output Video](https://youtu.be/pY5zFuyhzY4) 
 
 ## Tech Stack
 - Python
