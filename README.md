@@ -9,6 +9,9 @@ monitoring, road maintenance, and autonomous vehicle safety.
 - ✅ Accurately segmented potholes on road surfaces
 - ✅ Evaluated with normalized confusion matrix and test results
 
+## Demo
+▶️ [Watch Output Video](https://youtu.be/pY5zFuyhzY4) ← paste your YouTube link here
+
 ## Tech Stack
 - Python
 - Ultralytics YOLOv11 (Segmentation)
